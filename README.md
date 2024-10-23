@@ -1,1 +1,2 @@
 # website-project2
+This project follows the same basis as the previous site, but with a different color palette and a more organized CSS and HTML structure. It was made as an excercise to learn how to make a better use of recycled classes in CSS.
